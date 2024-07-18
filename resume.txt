@@ -1,0 +1,75 @@
+Shreya Garg 
+SHREYA GARG
++91 8851792379, +91 9999889373 
+shreyaalk@gmail.com 
+⋄https://www.linkedin.com/in/6-shreya--garg ⋄ https://github.com/6SHREYA ⋄https://www.credly.com/users/shreya-garg06
+Aspiring Software Development Engineer or Data Scientist with strong analytical capabilities and programming 
+expertise. Passionate about new technologies, committed to continuous learning, and excelling in team collaboration. 
+Proficient in data structures and object-oriented programming, with a goal-driven and hardworking mindset. Seeking a 
+role at pibit.ai to apply and expand my skills in developing and deploying innovative solutions. 
+EDUCATION
+Bachelors of Computer Science (AIML), ABES Engineering College (AKTU) 
+2021- 2025
+CGPA: 8.302 
+Senior Secondary, Holy Child School (ICSE) 
+2020-2021
+Percentage: 86.6 
+Secondary, Holy Child School (ICSE) 
+2018-2019
+Percentage: 82.83 
+TECHNICAL SKILLS
+Programming Languages Java, Python, JavaScript 
+Database Systems MySQL 
+Concepts Object-Oriented Programming Language, Data Structures, Data Science 
+Tools Visual Studio Code, Jupyter Notebook / Anaconda, Power Bi, Excel 
+Engineering Skills Problem-solving, Creative Engineering, Time Management, Team Collaboration, Cooperative 
+INTERNSHIPS 
+Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage[Remote] - July 2024
+ Completed a simulation involving creating data visualizations for Tata Consultancy Services 
+ Prepared questions for a meeting with client senior leadership 
+ Created visuals for data analysis to help executives with effective decision making 
+ 
+ Machine Learning Intern
+ Coincent - Remote, [Sep,2022-Nov,2022] 
+ Applied engineering principles to solve complex problems through machine learning models using Python. 
+ Quickly learned and incorporated new engineering methods into work processes. 
+ Sought feedback and applied internal or industry best practices to improve technical solutions. 
+ Demonstrated skill in time management and completing software projects in a cooperative team environment. 
+ Perks:
+o Completion Certificate 
+o Microsoft Azure AI Fundamentals Certificate
+PROJECTS 
+Pan Card Tempering Detection:  Description: Developed and deployed a live system using OpenCV to detect tempering in Pan cards by analyzing images for 
+Shreya Garg 
+inconsistencies and anomalies.  Technologies Used: Python, OpenCV  Objective: Ensure the authenticity of Pan cards by accurately identifying tampered documents.  Outcome: Achieved a high accuracy rate in detecting tampered Pan cards, significantly improving the reliability of document 
+verification processes. The project was successfully deployed on Render for live use. 
+Live Link: https://pancard-tempering-detection.onrender.com
+House Price Prediction. 
+ Description: Conducted a comprehensive evaluation of linear regression, SVM, and decision tree models in predictive analysis for 
+housing prices. 
+ Technologies Used: Python, Scikit-learn, Pandas 
+ Objective: Determined the most effective approach for data modelling in predicting house prices. 
+ Outcome: Analyzed performance metrics to inform decision-making, demonstrating proficiency in predictive modelling techniques 
+applicable to various domains requiring accurate forecasts. 
+GitHub Link: https://github.com/6SHREYA/House-price-pridiction
+ 
+ Exploring Insights: Unveiling Patterns and Trends in Google Apps Usage through EDA  Description: Conducted thorough Exploratory Data Analysis (EDA) on Google Apps usage to uncover patterns and trends.  Technologies Used: Python, Pandas, Matplotlib, Seaborn  Objective: Refined product development strategies based on insights gained from data analysis.  Outcome: Aimed for specific improvements including a 15% increase in engagement rates, a 10% rise in feature adoption, and a 
+20% decrease in user session durations, thereby driving product enhancements and user satisfaction. 
+GitHub Link: https://github.com/6SHREYA/EDA-Project
+TRAININGS
+• Full Stack Mern Industry Training by SALAAH through ABES Engineering College (2023). 
+• Data Science Industry Training by SALAAH through ABES Engineering College (2023). 
+• Cloud Industry Training by SALAAH through ABES Engineering College (Ongoing). 
+CERTIFICATIONS AND ACHIEVEMENTS
+• Problem Solving Certification, HackerRank 
+• Intermediate Level SQL Certification, HackerRank 
+• Java Programming Course, Infosys Springboard 
+• Introduction to Industry 4.0 and Industry of Things, NPTEL (2024) 
+• Python Data Analytics, NPTEL (2022) 
+• Industry of Things, NPTEL (2021) 
+• Microsoft Certified Azure AI Fundamentals 
+• LinkedIn Learning Data Analytics 
+• Cisco Networking Academy - Programming Essentials in Python and Networking. 
+• Received Letter of Recommendation for expertise in MERN stack web application developmentIntermediate Level 
+• Smart India Hackathon (Inter-College Winner) 
+ 
